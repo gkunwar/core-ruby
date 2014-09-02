@@ -1,0 +1,1 @@
+This is the collections and example of the MongoDB database operaions with ruby using mongo Gem.
